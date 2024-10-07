@@ -50,7 +50,7 @@ Além disso, tenha o [Docker](https://www.docker.com/) instalado.
 
 1. Clone o repositório:
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/V-Perotto/pandavideo-frontend
 cd panda-video
 ```
 
@@ -70,7 +70,7 @@ npm run serve
 
 1. Clone o repositório:
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/V-Perotto/pandavideo-frontend
 cd panda-video
 ```
 
